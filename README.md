@@ -3,8 +3,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/nathan elijah torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathan elijah torres" height="30" width="40" /></a>
-<a href="https://fb.com/nathan torres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathan torres" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/nathanelijahtorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nathanelijahtorres" height="30" width="40" /></a>
+<a href="https://fb.com/nathanelijahtorres" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="nathanelijahtorres" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
